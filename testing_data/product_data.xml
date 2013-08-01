@@ -35,12 +35,9 @@
 	<wp:base_site_url>http://shop.demo.groupbuyingsite.com</wp:base_site_url>
 	<wp:base_blog_url>http://shop.demo.groupbuyingsite.com</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>sproutventure</wp:author_login><wp:author_email>grow@sproutventure.com</wp:author_email><wp:author_display_name><![CDATA[sproutventure]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>84</wp:author_id><wp:author_login>demo</wp:author_login><wp:author_email>demo@groupbuyingsiteDEMO1.com</wp:author_email><wp:author_display_name><![CDATA[demo]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>gbstest1@sproutventure.com</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[first]]></wp:author_first_name><wp:author_last_name><![CDATA[last]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>87</wp:author_id><wp:author_login>merchant</wp:author_login><wp:author_email>demo+sponsor@groupbuyingsiteDEMO1.com</wp:author_email><wp:author_display_name><![CDATA[merchant]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>86</wp:author_id><wp:author_login>user</wp:author_login><wp:author_email>demo+user@groupbuyingsiteDEMO1.com</wp:author_email><wp:author_display_name><![CDATA[user]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>88</wp:author_id><wp:author_login>dancameron</wp:author_login><wp:author_email>dancameron@gdemo.com</wp:author_email><wp:author_display_name><![CDATA[dancameron]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>blog</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Blog]]></wp:cat_name></wp:category>
 	<wp:category><wp:term_id>28</wp:term_id><wp:category_nicename>parent-category-i</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Parent Category I]]></wp:cat_name></wp:category>
@@ -92,7 +89,7 @@
 		<title>Screen Shot 2012-01-20 at 12.01.58 PM</title>
 		<link>http://shop.demo.groupbuyingsite.com/homepage/screen-shot-2012-01-20-at-12-01-58-pm/</link>
 		<pubDate>Fri, 20 Jan 2012 21:27:40 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-20-at-12.01.58-PM.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -120,166 +117,10 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>1</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=1</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4980</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>1</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[57]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>1reg_res</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=1reg_res</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=1reg_res</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4981</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>1reg_res</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[44]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>1restricted_registration</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=1restricted_registration</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=1restricted_registration</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4982</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>1restricted_registration</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[43]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>223123</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=223123</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=223123</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4983</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>223123</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>2reg_res</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=2reg_res</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=2reg_res</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4984</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>2reg_res</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3reg_res</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4985</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[46]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Screen-Shot-2012-01-20-at-12.01.58-PM</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/screen-shot-2012-01-20-at-12-01-58-pm-2/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:17 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-20-at-12.01.58-PM1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -310,7 +151,7 @@
 		<title>showEnhanced-3</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-3/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:20 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-3.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -341,7 +182,7 @@
 		<title>showEnhanced-4</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-4/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:21 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-4.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -372,7 +213,7 @@
 		<title>showEnhanced-12</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-12/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:23 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-12.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -403,7 +244,7 @@
 		<title>showEnhanced-1</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-1/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:24 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-1.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -434,7 +275,7 @@
 		<title>showEnhanced-9</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-9/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:26 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-9.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -465,7 +306,7 @@
 		<title>showEnhanced-2</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-2/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-2.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -496,7 +337,7 @@
 		<title>showEnhanced</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:29 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -527,7 +368,7 @@
 		<title>showEnhanced-13</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-13/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:30 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-13.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -558,7 +399,7 @@
 		<title>showEnhanced-7</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-7/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:31 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-7.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -589,7 +430,7 @@
 		<title>showEnhanced-14</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-14/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:32 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-14.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -620,7 +461,7 @@
 		<title>showEnhanced-5</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-5/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:34 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-5.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -651,7 +492,7 @@
 		<title>showEnhanced-6</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/showenhanced-6/</link>
 		<pubDate>Fri, 20 Jan 2012 21:44:35 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/wp-content/uploads/2012/01/showEnhanced-6.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -679,2098 +520,10 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>3reg_res2</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res2</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4986</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[47]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3reg_res2e</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res2e</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res2e</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4987</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res2e</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[48]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3reg_res2e3</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res2e3</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res2e3</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4988</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res2e3</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[49]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3reg_res2e32</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res2e32</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res2e32</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4989</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res2e32</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[50]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3reg_res2e322</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res2e322</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res2e322</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4990</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res2e322</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[51]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3reg_res2e3223</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res2e3223</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res2e3223</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4991</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res2e3223</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[52]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3reg_res2e3223ee</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res2e3223ee</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res2e3223ee</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4992</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res2e3223ee</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[53]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3reg_res2e3223eewe</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res2e3223eewe</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res2e3223eewe</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4993</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res2e3223eewe</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[54]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3reg_res2e3223eewee</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res2e3223eewee</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res2e3223eewee</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4994</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res2e3223eewee</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[55]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3reg_res2e33223eewee</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=3reg_res2e33223eewee</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=3reg_res2e33223eewee</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4995</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3reg_res2e33223eewee</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>admin</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=admin</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=admin</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4996</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>admin</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>affiliate_test</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=affiliate_test</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=affiliate_test</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4997</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>affiliate_test</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[37]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>ag_gmail</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=ag_gmail</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=ag_gmail</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4998</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>ag_gmail</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[75]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>asdf</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=asdf</link>
-		<pubDate>Fri, 20 Jan 2012 21:30:25 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=asdf</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4999</wp:post_id>
-		<wp:post_date>2012-01-20 21:30:25</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:30:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>asdf</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>asdf123</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=asdf123</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=asdf123</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5002</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>asdf123</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>asdf234234</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=asdf234234</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=asdf234234</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5003</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>asdf234234</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[58]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>asdfasdfkahsdfkjasdf-com</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=asdfasdfkahsdfkjasdf-com</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=asdfasdfkahsdfkjasdf-com</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5004</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>asdfasdfkahsdfkjasdf-com</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>asdfasdf21123</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=asdfasdf21123</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=asdfasdf21123</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5005</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>asdfasdf21123</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>asdfasdf2342321123</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=asdfasdf2342321123</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=asdfasdf2342321123</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5006</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>asdfasdf2342321123</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>asdfasdfsadf</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=asdfasdfsadf</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=asdfasdfsadf</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5007</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>asdfasdfsadf</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[12]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dalkajsdf</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dalkajsdf</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=dalkajsdf</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5008</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dalkajsdf</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[16]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dalkajsdf3</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dalkajsdf3</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=dalkajsdf3</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5009</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dalkajsdf3</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[17]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dalkajsdf3r2</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dalkajsdf3r2</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=dalkajsdf3r2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5010</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dalkajsdf3r2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[18]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dalkajsdf3r21</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dalkajsdf3r21</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=dalkajsdf3r21</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5011</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dalkajsdf3r21</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dalkajsdf3r211</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dalkajsdf3r211</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=dalkajsdf3r211</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5012</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dalkajsdf3r211</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[20]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dalkajsdf3r2113</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dalkajsdf3r2113</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=dalkajsdf3r2113</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5013</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dalkajsdf3r2113</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[21]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dalkajsdf3r2113e</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dalkajsdf3r2113e</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=dalkajsdf3r2113e</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5014</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dalkajsdf3r2113e</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[22]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dalkajsdf3r2e113e</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dalkajsdf3r2e113e</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=dalkajsdf3r2e113e</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5015</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dalkajsdf3r2e113e</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[23]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dan</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dan</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=dan</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5016</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dan</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dancameron</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dancameron</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=dancameron</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5017</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dancameron</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[74]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>gbs_aggregation_server</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=gbs_aggregation_server</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=gbs_aggregation_server</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5018</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>gbs_aggregation_server</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[35]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>grouptest2</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=grouptest2</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=grouptest2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5019</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>grouptest2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[76]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>grouptest3</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=grouptest3</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=grouptest3</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5020</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>grouptest3</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[77]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>grouptest4</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=grouptest4</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=grouptest4</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5021</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>grouptest4</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[78]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>group_test_gmail</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=group_test_gmail</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=group_test_gmail</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5022</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>group_test_gmail</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[80]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>invite</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=invite</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=invite</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5023</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>invite</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>invite_only_test</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=invite_only_test</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=invite_only_test</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5024</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>invite_only_test</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[34]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>lockdown_test</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=lockdown_test</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=lockdown_test</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5025</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>lockdown_test</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[59]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>notification_user_test</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=notification_user_test</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=notification_user_test</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5026</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>notification_user_test</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[61]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>redirecttest</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=redirecttest</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=redirecttest</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5027</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:14</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>redirecttest</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[66]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>sproutventure</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=sproutventure</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=sproutventure</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5028</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>sproutventure</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5029</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test223432443234</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test223432443234</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test223432443234</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5030</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test223432443234</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[39]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test22343244323sad4</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test22343244323sad4</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test22343244323sad4</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5031</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test22343244323sad4</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test223432443e23sad4</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test223432443e23sad4</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test223432443e23sad4</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5032</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test223432443e23sad4</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[41]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test223432443e23sad43</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test223432443e23sad43</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test223432443e23sad43</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5033</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test223432443e23sad43</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[42]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test234</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test234</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test234</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5034</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test234</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[38]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testgifter</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testgifter</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testgifter</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5035</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testgifter</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[73]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testing</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testing</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testing</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5036</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testing</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[68]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testing2</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testing2</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testing2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5037</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testing2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[79]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testinginvite1</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testinginvite1</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testinginvite1</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5038</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testinginvite1</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[24]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testinginvite10</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testinginvite10</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testinginvite10</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5039</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testinginvite10</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[32]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testinginvite11</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testinginvite11</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testinginvite11</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5040</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testinginvite11</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[33]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testinginvite2</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testinginvite2</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testinginvite2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5041</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testinginvite2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[25]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testinginvite4</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testinginvite4</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testinginvite4</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5042</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testinginvite4</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[26]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testinginvite5</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testinginvite5</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testinginvite5</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5043</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testinginvite5</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[27]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testinginvite6</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testinginvite6</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testinginvite6</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5044</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testinginvite6</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[28]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testinginvite7</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testinginvite7</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testinginvite7</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5045</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testinginvite7</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[29]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testinginvite8</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testinginvite8</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testinginvite8</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5046</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testinginvite8</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testinginvite9</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testinginvite9</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testinginvite9</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5047</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testinginvite9</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[31]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testing_registration_notification_1</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testing_registration_notification_1</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testing_registration_notification_1</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5048</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testing_registration_notification_1</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[64]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testing_registration_notification_2</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testing_registration_notification_2</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testing_registration_notification_2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5049</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testing_registration_notification_2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[62]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testing_registration_notification_21</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testing_registration_notification_21</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testing_registration_notification_21</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5050</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testing_registration_notification_21</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[63]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testing_registration_notification_3</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testing_registration_notification_3</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testing_registration_notification_3</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5051</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testing_registration_notification_3</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[65]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testref213</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testref213</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testref213</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5052</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testref213</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testref234234</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testref234234</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testref234234</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5053</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testref234234</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testref324234</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=testref324234</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=testref324234</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5054</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>testref324234</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[9]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test_reg2</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test_reg2</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test_reg2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5055</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test_reg2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[15]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test_reg22</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test_reg22</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test_reg22</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5056</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test_reg22</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[71]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test_reg222</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test_reg222</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test_reg222</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5057</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test_reg222</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[72]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test_reg234</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test_reg234</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test_reg234</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5058</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test_reg234</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test_regxss</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test_regxss</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test_regxss</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5059</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test_regxss</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[69]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>test_regxss2</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=test_regxss2</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=test_regxss2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5060</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>test_regxss2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[70]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>username</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=username</link>
-		<pubDate>Fri, 20 Jan 2012 21:35:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=username</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5061</wp:post_id>
-		<wp:post_date>2012-01-20 21:35:15</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:35:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>username</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[67]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Anonymous</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=anonymous</link>
-		<pubDate>Mon, 23 Jan 2012 18:11:50 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=anonymous</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10081</wp:post_id>
-		<wp:post_date>2012-01-23 18:11:50</wp:post_date>
-		<wp:post_date_gmt>2012-01-23 18:11:50</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>anonymous</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>iphone</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=iphone</link>
-		<pubDate>Wed, 25 Jan 2012 17:16:32 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=iphone</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10094</wp:post_id>
-		<wp:post_date>2012-01-25 17:16:32</wp:post_date>
-		<wp:post_date_gmt>2012-01-25 17:16:32</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>iphone</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[81]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_first_name</wp:meta_key>
-			<wp:meta_value><![CDATA[Dan]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_last_name</wp:meta_key>
-			<wp:meta_value><![CDATA[Cameron]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_address</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:6:"street";s:4:"1607";s:4:"city";s:7:"Ventura";s:4:"zone";s:2:"CA";s:11:"postal_code";s:5:"93004";s:7:"country";s:2:"US";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_credit_balance_affiliate</wp:meta_key>
-			<wp:meta_value><![CDATA[9101]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_credit_balance_affiliate_reserved</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>ashishkulkarni</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=ashishkulkarni</link>
-		<pubDate>Mon, 30 Jan 2012 12:49:00 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=ashishkulkarni</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10107</wp:post_id>
-		<wp:post_date>2012-01-30 12:49:00</wp:post_date>
-		<wp:post_date_gmt>2012-01-30 12:49:00</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>ashishkulkarni</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_credit_balance_affiliate</wp:meta_key>
-			<wp:meta_value><![CDATA[9101]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_address</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:6:"street";s:19:"37 Springfield Road";s:4:"city";s:8:"Stirling";s:4:"zone";s:11:"Strathclyde";s:11:"postal_code";s:7:"FK7 7QN";s:7:"country";s:2:"GB";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_last_name</wp:meta_key>
-			<wp:meta_value><![CDATA[Kulkarni]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[82]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_first_name</wp:meta_key>
-			<wp:meta_value><![CDATA[Ashish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_credit_balance_affiliate_reserved</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>teste</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=teste</link>
-		<pubDate>Tue, 31 Jan 2012 19:14:45 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_account=teste</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10112</wp:post_id>
-		<wp:post_date>2012-01-31 19:14:45</wp:post_date>
-		<wp:post_date_gmt>2012-01-31 19:14:45</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>teste</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[83]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_first_name</wp:meta_key>
-			<wp:meta_value><![CDATA[dac]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_last_name</wp:meta_key>
-			<wp:meta_value><![CDATA[dac]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_address</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:6:"street";s:8:"dasdasds";s:4:"city";s:6:"dallas";s:4:"zone";s:2:"TX";s:11:"postal_code";s:7:"0000000";s:7:"country";s:2:"US";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_credit_balance_affiliate</wp:meta_key>
-			<wp:meta_value><![CDATA[8143]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_credit_balance_affiliate_reserved</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_account=demo</link>
 		<pubDate>Thu, 02 Feb 2012 23:22:06 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_account=demo</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2813,66 +566,10 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>fdsafdsa</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=fdsafdsa</link>
-		<pubDate>Mon, 25 Jun 2012 21:10:29 +0000</pubDate>
-		<dc:creator>demo</dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_account=fdsafdsa</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10129</wp:post_id>
-		<wp:post_date>2012-06-25 21:10:29</wp:post_date>
-		<wp:post_date_gmt>2012-06-25 21:10:29</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>fdsafdsa</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[85]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>sproutventure</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=sproutventure</link>
-		<pubDate>Fri, 20 Jan 2012 21:24:52 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
-		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_cart=sproutventure</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date>2012-01-20 21:24:52</wp:post_date>
-		<wp:post_date_gmt>2012-01-20 21:24:52</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>sproutventure</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_products</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:7:"deal_id";s:4:"9971";s:8:"quantity";s:1:"5";s:4:"data";a:1:{s:12:"attribute_id";s:5:"10007";}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Regular</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=regular</link>
 		<pubDate>Sat, 21 Jan 2012 01:43:00 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=regular</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2911,7 +608,7 @@
 		<title>Ladies</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=ladies</link>
 		<pubDate>Sat, 21 Jan 2012 01:43:00 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=ladies</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2950,7 +647,7 @@
 		<title>Stiff</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=stiff</link>
 		<pubDate>Sat, 21 Jan 2012 01:43:00 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=stiff</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2989,7 +686,7 @@
 		<title>Tour</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=tour</link>
 		<pubDate>Sat, 21 Jan 2012 01:43:00 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=tour</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3028,7 +725,7 @@
 		<title>Small</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=small</link>
 		<pubDate>Sat, 21 Jan 2012 01:48:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=small</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3067,7 +764,7 @@
 		<title>Medium</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=medium</link>
 		<pubDate>Sat, 21 Jan 2012 01:48:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=medium</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3106,7 +803,7 @@
 		<title>Large</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=large</link>
 		<pubDate>Sat, 21 Jan 2012 01:48:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=large</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3145,7 +842,7 @@
 		<title>Stiff</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=stiff-2</link>
 		<pubDate>Sat, 21 Jan 2012 01:53:04 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=stiff-2</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3184,7 +881,7 @@
 		<title>Regular</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=regular-2</link>
 		<pubDate>Sat, 21 Jan 2012 01:53:05 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=regular-2</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3223,7 +920,7 @@
 		<title>Regular</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=regular-3</link>
 		<pubDate>Sat, 21 Jan 2012 01:55:53 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=regular-3</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3262,7 +959,7 @@
 		<title>Stiff</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=stiff-3</link>
 		<pubDate>Sat, 21 Jan 2012 01:55:53 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=stiff-3</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3301,7 +998,7 @@
 		<title>Stiff</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=stiff-4</link>
 		<pubDate>Sat, 21 Jan 2012 01:57:01 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=stiff-4</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3340,7 +1037,7 @@
 		<title>X-Stiff</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=x-stiff</link>
 		<pubDate>Sat, 21 Jan 2012 01:59:37 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=x-stiff</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3379,7 +1076,7 @@
 		<title>Stiff</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_attribute=stiff-5</link>
 		<pubDate>Sat, 21 Jan 2012 01:59:37 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?gb_attribute=stiff-5</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3448,7 +1145,7 @@
 		<title>user</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_account=user</link>
 		<pubDate>Mon, 25 Jun 2012 21:18:35 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_account=user</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3494,7 +1191,7 @@
 		<title>merchant</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_account=merchant</link>
 		<pubDate>Mon, 25 Jun 2012 22:19:04 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_account=merchant</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3571,61 +1268,27 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>dancameron</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_account=dancameron-2</link>
-		<pubDate>Wed, 12 Sep 2012 18:14:42 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_account=dancameron-2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10152</wp:post_id>
-		<wp:post_date>2012-09-12 18:14:42</wp:post_date>
-		<wp:post_date_gmt>2012-09-12 18:14:42</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dancameron-2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_account</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[88]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_first_name</wp:meta_key>
-			<wp:meta_value><![CDATA[Dan]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_last_name</wp:meta_key>
-			<wp:meta_value><![CDATA[Cameron]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_address</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:6:"street";s:0:"";s:4:"city";s:0:"";s:4:"zone";s:0:"";s:11:"postal_code";s:0:"";s:7:"country";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_credit_balance_affiliate</wp:meta_key>
-			<wp:meta_value><![CDATA[200]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Burner Irons</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/burner-irons/</link>
 		<pubDate>Fri, 20 Jan 2012 21:45:41 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9936</guid>
 		<description></description>
 		<content:encoded><![CDATA[Efficiently procrastinate leading-edge e-commerce with cross-platform total linkage. Proactively e-enable team driven e-tailers after holistic e-markets. Dynamically productize magnetic niches before enterprise-wide resources.
 
+
+
 Energistically predominate 2.0 scenarios with parallel alignments. Competently provide access to user-centric deliverables whereas error-free mindshare. Seamlessly create virtual e-markets whereas high-payoff best practices.
+
+
 
 Phosfluorescently matrix dynamic vortals for intermandated services. Appropriately harness highly efficient innovation without user friendly deliverables. Holisticly drive one-to-one applications without interoperable innovation.
 
+
+
 Completely administrate cost effective models rather than sticky materials. Compellingly formulate unique ROI whereas diverse action items. Interactively predominate bleeding-edge communities and emerging ideas.
+
+
 
 Globally disintermediate principle-centered metrics vis-a-vis compelling leadership.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3708,10 +1371,15 @@ Globally disintermediate principle-centered metrics vis-a-vis compelling leaders
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 	<li>Rapidiously harness best-of-breed sources vis-a-vis resource sucking platforms.</li>
+
 	<li>Objectively monetize market-driven testing procedures and intermandated innovation.</li>
+
 	<li>Assertively foster client-centric portals before orthogonal manufactured products.</li>
+
 	<li>Distinctively enhance resource sucking benefits whereas real-time e-business.</li>
+
 </ul>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3779,16 +1447,24 @@ Globally disintermediate principle-centered metrics vis-a-vis compelling leaders
 		<title>Callaway Driver </title>
 		<link>http://shop.demo.groupbuyingsite.com/products/callaway-driver/</link>
 		<pubDate>Sat, 21 Jan 2012 01:55:53 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9971</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3871,10 +1547,15 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 <li>Globally transition impactful ideas and alternative leadership skills.</li>
+
 <li>Dynamically coordinate global paradigms and focused best practices.</li>
+
 <li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
+
 <li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3946,16 +1627,24 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<title>Black Golf Stand Bag</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/black-golf-stand-bag/</link>
 		<pubDate>Sat, 21 Jan 2012 01:55:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9972</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4038,20 +1727,32 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 	<li>Globally transition impactful ideas and alternative leadership skills.</li>	<li>Dynamically coordinate global paradigms and focused best practices.  </li>
+
 	<li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
 
 
 
+
+
+
+
 	<li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_fine_print</wp:meta_key>
 			<wp:meta_value><![CDATA[Intrinsicly impact cost effective ideas before maintainable action items. Dramatically unleash enterprise mindshare whereas professional services. Competently negotiate transparent expertise without leading-edge infomediaries. 
 
+
+
 Continually engineer client-centered methods of empowerment and market-driven services. Synergistically productivate technically sound initiatives and premium internal or "organic" sources. Authoritatively create accurate architectures rather than transparent mindshare. 
+
+
 
 Holisticly redefine cross-platform technologies via client-centric materials.]]></wp:meta_value>
 		</wp:postmeta>
@@ -4120,16 +1821,24 @@ Holisticly redefine cross-platform technologies via client-centric materials.]]>
 		<title>Callaway Razr Driver</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/callaway-razr-driver/</link>
 		<pubDate>Sat, 21 Jan 2012 01:54:16 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9973</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4212,20 +1921,32 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 	<li>Globally transition impactful ideas and alternative leadership skills.</li>	<li>Dynamically coordinate global paradigms and focused best practices.  </li>
+
 	<li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
 
 
 
+
+
+
+
 	<li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_fine_print</wp:meta_key>
 			<wp:meta_value><![CDATA[Intrinsicly impact cost effective ideas before maintainable action items. Dramatically unleash enterprise mindshare whereas professional services. Competently negotiate transparent expertise without leading-edge infomediaries. 
 
+
+
 Continually engineer client-centered methods of empowerment and market-driven services. Synergistically productivate technically sound initiatives and premium internal or "organic" sources. Authoritatively create accurate architectures rather than transparent mindshare. 
+
+
 
 Holisticly redefine cross-platform technologies via client-centric materials.]]></wp:meta_value>
 		</wp:postmeta>
@@ -4290,16 +2011,24 @@ Holisticly redefine cross-platform technologies via client-centric materials.]]>
 		<title>r11 Taylormade Driver</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/r11-taylormade-driver/</link>
 		<pubDate>Sat, 21 Jan 2012 01:53:04 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9974</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4382,10 +2111,15 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 <li>Globally transition impactful ideas and alternative leadership skills.</li>
+
 <li>Dynamically coordinate global paradigms and focused best practices.</li>
+
 <li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
+
 <li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4453,16 +2187,24 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<title>Bushnell Patriot Set Range Finder</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/bushnell-patriot-set-range-finder/</link>
 		<pubDate>Sat, 21 Jan 2012 01:51:44 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9975</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4544,20 +2286,32 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 	<li>Globally transition impactful ideas and alternative leadership skills.</li>	<li>Dynamically coordinate global paradigms and focused best practices.  </li>
+
 	<li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
 
 
 
+
+
+
+
 	<li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_fine_print</wp:meta_key>
 			<wp:meta_value><![CDATA[Intrinsicly impact cost effective ideas before maintainable action items. Dramatically unleash enterprise mindshare whereas professional services. Competently negotiate transparent expertise without leading-edge infomediaries. 
 
+
+
 Continually engineer client-centered methods of empowerment and market-driven services. Synergistically productivate technically sound initiatives and premium internal or "organic" sources. Authoritatively create accurate architectures rather than transparent mindshare. 
+
+
 
 Holisticly redefine cross-platform technologies via client-centric materials.]]></wp:meta_value>
 		</wp:postmeta>
@@ -4622,16 +2376,24 @@ Holisticly redefine cross-platform technologies via client-centric materials.]]>
 		<title>Bushnell Range Scope</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/bussnell-range-scope/</link>
 		<pubDate>Sat, 21 Jan 2012 01:49:30 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9976</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4713,20 +2475,32 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 	<li>Globally transition impactful ideas and alternative leadership skills.</li>	<li>Dynamically coordinate global paradigms and focused best practices.  </li>
+
 	<li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
 
 
 
+
+
+
+
 	<li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_fine_print</wp:meta_key>
 			<wp:meta_value><![CDATA[Intrinsicly impact cost effective ideas before maintainable action items. Dramatically unleash enterprise mindshare whereas professional services. Competently negotiate transparent expertise without leading-edge infomediaries. 
 
+
+
 Continually engineer client-centered methods of empowerment and market-driven services. Synergistically productivate technically sound initiatives and premium internal or "organic" sources. Authoritatively create accurate architectures rather than transparent mindshare. 
+
+
 
 Holisticly redefine cross-platform technologies via client-centric materials.]]></wp:meta_value>
 		</wp:postmeta>
@@ -4791,16 +2565,24 @@ Holisticly redefine cross-platform technologies via client-centric materials.]]>
 		<title>Adidas Shirt</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/adidas-shirt/</link>
 		<pubDate>Sat, 21 Jan 2012 01:48:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9977</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4883,10 +2665,15 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 <li>Globally transition impactful ideas and alternative leadership skills.</li>
+
 <li>Dynamically coordinate global paradigms and focused best practices.</li>
+
 <li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
+
 <li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4954,16 +2741,24 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<title>Nike V Irons</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/nike-v-irons/</link>
 		<pubDate>Sat, 21 Jan 2012 01:44:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9978</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5047,20 +2842,32 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 	<li>Globally transition impactful ideas and alternative leadership skills.</li>	<li>Dynamically coordinate global paradigms and focused best practices.  </li>
+
 	<li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
 
 
 
+
+
+
+
 	<li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_fine_print</wp:meta_key>
 			<wp:meta_value><![CDATA[Intrinsicly impact cost effective ideas before maintainable action items. Dramatically unleash enterprise mindshare whereas professional services. Competently negotiate transparent expertise without leading-edge infomediaries. 
 
+
+
 Continually engineer client-centered methods of empowerment and market-driven services. Synergistically productivate technically sound initiatives and premium internal or "organic" sources. Authoritatively create accurate architectures rather than transparent mindshare. 
+
+
 
 Holisticly redefine cross-platform technologies via client-centric materials.]]></wp:meta_value>
 		</wp:postmeta>
@@ -5129,14 +2936,20 @@ Holisticly redefine cross-platform technologies via client-centric materials.]]>
 		<title>Taylor Made r11 Irons</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/taylor-made-r11-irons/</link>
 		<pubDate>Sat, 21 Jan 2012 01:43:00 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9979</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
 
+
+
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
+
+
 
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5219,10 +3032,15 @@ Assertively plagiarize world-class "outside the box" thinking with viral process
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 <li>Globally transition impactful ideas and alternative leadership skills.</li>
+
 <li>Dynamically coordinate global paradigms and focused best practices.</li>
+
 <li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
+
 <li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5291,310 +3109,10 @@ Assertively plagiarize world-class "outside the box" thinking with viral process
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>user</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=user</link>
-		<pubDate>Mon, 25 Jun 2012 22:28:18 +0000</pubDate>
-		<dc:creator>user</dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_cart=user</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10136</wp:post_id>
-		<wp:post_date>2012-06-25 22:28:18</wp:post_date>
-		<wp:post_date_gmt>2012-06-25 22:28:18</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>user</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[86]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_ip</wp:meta_key>
-			<wp:meta_value><![CDATA[75.83.4.129]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dancameron</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=dancameron</link>
-		<pubDate>Wed, 12 Sep 2012 18:14:45 +0000</pubDate>
-		<dc:creator>dancameron</dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_cart=dancameron</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10153</wp:post_id>
-		<wp:post_date>2012-09-12 18:14:45</wp:post_date>
-		<wp:post_date_gmt>2012-09-12 18:14:45</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dancameron</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[88]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_ip</wp:meta_key>
-			<wp:meta_value><![CDATA[75.83.4.129]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Anonymous 76.172.2.50</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50</link>
-		<pubDate>Thu, 27 Jun 2013 15:03:40 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10191</wp:post_id>
-		<wp:post_date>2013-06-27 15:03:40</wp:post_date>
-		<wp:post_date_gmt>2013-06-27 15:03:40</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>anonymous-76-172-2-50</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_ip</wp:meta_key>
-			<wp:meta_value><![CDATA[76.172.2.50]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Anonymous 76.172.2.50</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-2</link>
-		<pubDate>Thu, 27 Jun 2013 15:03:40 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10192</wp:post_id>
-		<wp:post_date>2013-06-27 15:03:40</wp:post_date>
-		<wp:post_date_gmt>2013-06-27 15:03:40</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>anonymous-76-172-2-50-2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_ip</wp:meta_key>
-			<wp:meta_value><![CDATA[76.172.2.50]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Anonymous 76.172.2.50</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-3</link>
-		<pubDate>Thu, 27 Jun 2013 15:03:43 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-3</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10193</wp:post_id>
-		<wp:post_date>2013-06-27 15:03:43</wp:post_date>
-		<wp:post_date_gmt>2013-06-27 15:03:43</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>anonymous-76-172-2-50-3</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_ip</wp:meta_key>
-			<wp:meta_value><![CDATA[76.172.2.50]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Anonymous 76.172.2.50</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-4</link>
-		<pubDate>Thu, 27 Jun 2013 15:03:43 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-4</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10194</wp:post_id>
-		<wp:post_date>2013-06-27 15:03:43</wp:post_date>
-		<wp:post_date_gmt>2013-06-27 15:03:43</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>anonymous-76-172-2-50-4</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_ip</wp:meta_key>
-			<wp:meta_value><![CDATA[76.172.2.50]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Anonymous 76.172.2.50</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-5</link>
-		<pubDate>Thu, 27 Jun 2013 15:04:09 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-5</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10195</wp:post_id>
-		<wp:post_date>2013-06-27 15:04:09</wp:post_date>
-		<wp:post_date_gmt>2013-06-27 15:04:09</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>anonymous-76-172-2-50-5</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_ip</wp:meta_key>
-			<wp:meta_value><![CDATA[76.172.2.50]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Anonymous 76.172.2.50</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-6</link>
-		<pubDate>Thu, 27 Jun 2013 15:04:09 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-6</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10196</wp:post_id>
-		<wp:post_date>2013-06-27 15:04:09</wp:post_date>
-		<wp:post_date_gmt>2013-06-27 15:04:09</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>anonymous-76-172-2-50-6</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_ip</wp:meta_key>
-			<wp:meta_value><![CDATA[76.172.2.50]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Anonymous 76.172.2.50</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-7</link>
-		<pubDate>Thu, 27 Jun 2013 15:04:10 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-7</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10197</wp:post_id>
-		<wp:post_date>2013-06-27 15:04:10</wp:post_date>
-		<wp:post_date_gmt>2013-06-27 15:04:10</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>anonymous-76-172-2-50-7</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_ip</wp:meta_key>
-			<wp:meta_value><![CDATA[76.172.2.50]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Anonymous 76.172.2.50</title>
-		<link>http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-8</link>
-		<pubDate>Thu, 27 Jun 2013 15:04:10 +0000</pubDate>
-		<dc:creator></dc:creator>
-		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_cart=anonymous-76-172-2-50-8</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10198</wp:post_id>
-		<wp:post_date>2013-06-27 15:04:10</wp:post_date>
-		<wp:post_date_gmt>2013-06-27 15:04:10</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>anonymous-76-172-2-50-8</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_cart</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_user_id</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_ip</wp:meta_key>
-			<wp:meta_value><![CDATA[76.172.2.50]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Purchase Confirmation from Shop Theme for Group Buying Site Demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/notifications/purchase-confirmation-from-shop-theme-for-group-buying-site-demo/</link>
 		<pubDate>Fri, 20 Jan 2012 21:22:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=4</guid>
 		<description></description>
 		<content:encoded><![CDATA[Dear [name],
@@ -5637,7 +3155,7 @@ Sincerely,
 		<title>Deal Expired at Shop Theme for Group Buying Site Demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/notifications/deal-expired-at-shop-theme-for-group-buying-site-demo/</link>
 		<pubDate>Fri, 20 Jan 2012 21:22:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[Dear [name],
@@ -5673,7 +3191,7 @@ Sincerely,
 		<title>Deal Failed to tip at Shop Theme for Group Buying Site Demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/notifications/deal-failed-to-tip-at-shop-theme-for-group-buying-site-demo/</link>
 		<pubDate>Fri, 20 Jan 2012 21:22:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[Dear [name],
@@ -5704,7 +3222,7 @@ Sincerely,
 		<title>Registration Confirmation at Shop Theme for Group Buying Site Demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/notifications/registration-confirmation-at-shop-theme-for-group-buying-site-demo/</link>
 		<pubDate>Fri, 20 Jan 2012 21:22:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[Greetings,
@@ -5736,7 +3254,7 @@ See you soon,
 		<title>Password Reset Notice from Shop Theme for Group Buying Site Demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/notifications/password-reset-notice-from-shop-theme-for-group-buying-site-demo/</link>
 		<pubDate>Fri, 20 Jan 2012 21:22:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[Hello [username]
@@ -5771,7 +3289,7 @@ See you soon,
 		<title>Your New Password for Shop Theme for Group Buying Site Demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/notifications/your-new-password-for-shop-theme-for-group-buying-site-demo/</link>
 		<pubDate>Fri, 20 Jan 2012 21:22:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[[username], looks like you did lose your password. 
@@ -5805,7 +3323,7 @@ See you soon,
 		<title>Redeem your gift at Shop Theme for Group Buying Site Demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/notifications/redeem-your-gift-at-shop-theme-for-group-buying-site-demo/</link>
 		<pubDate>Fri, 20 Jan 2012 21:22:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[[gift_sender] sent you a gift. 
@@ -5835,7 +3353,7 @@ Gift Details:
 		<title>A Reward from Shop Theme for Group Buying Site Demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/notifications/a-reward-from-shop-theme-for-group-buying-site-demo/</link>
 		<pubDate>Fri, 20 Jan 2012 21:22:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[Dear [name],
@@ -5864,7 +3382,7 @@ Sincerely,
 		<title>Your deal is ready at Shop Theme for Group Buying Site Demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/notifications/your-deal-is-ready-at-shop-theme-for-group-buying-site-demo/</link>
 		<pubDate>Fri, 20 Jan 2012 21:22:27 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[Dear [name],
@@ -5894,7 +3412,7 @@ Sincerely,
 		<title>Blank Merchant</title>
 		<link>http://shop.demo.groupbuyingsite.com/business/blank-merchant/</link>
 		<pubDate>Fri, 20 Jan 2012 21:38:50 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/business/blank-merchant/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5960,16 +3478,24 @@ Sincerely,
 		<title>Titleist</title>
 		<link>http://shop.demo.groupbuyingsite.com/business/titleist/</link>
 		<pubDate>Fri, 20 Jan 2012 21:48:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_merchant&#038;p=9952</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6054,16 +3580,24 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<title>Mizuno Pro Irons</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/mizuno-pro-irons/</link>
 		<pubDate>Sat, 21 Jan 2012 01:59:37 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9968</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6142,10 +3676,15 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 <li>Globally transition impactful ideas and alternative leadership skills.</li>
+
 <li>Dynamically coordinate global paradigms and focused best practices.</li>
+
 <li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
+
 <li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6221,16 +3760,24 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<title>Mizuno Irons</title>
 		<link>http://shop.demo.groupbuyingsite.com/products/mizuno-irons/</link>
 		<pubDate>Sat, 21 Jan 2012 01:57:01 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?post_type=gb_deal&#038;p=9970</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quickly streamline B2C quality vectors rather than diverse relationships. Competently utilize backward-compatible potentialities for cost effective results. Interactively morph cross functional models via cost effective e-services. 
 
+
+
 Proactively disintermediate adaptive expertise and economically sound web services. Enthusiastically architect ubiquitous meta-services after interdependent strategic theme areas. Uniquely benchmark an expanded array of technology without user friendly process improvements. 
+
+
 
 Assertively plagiarize world-class "outside the box" thinking with viral process improvements. Uniquely engage low-risk high-yield e-services for parallel e-markets. Globally utilize impactful catalysts for change and transparent growth strategies. 
 
+
+
 Globally transition impactful ideas and alternative leadership skills. Authoritatively fabricate empowered intellectual capital via emerging applications. Dynamically coordinate global paradigms and focused best practices. 
+
+
 
 Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6313,10 +3860,15 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<wp:postmeta>
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
+
 <li>Globally transition impactful ideas and alternative leadership skills.</li>
+
 <li>Dynamically coordinate global paradigms and focused best practices.</li>
+
 <li>Authoritatively fabricate empowered intellectual capital via emerging applications.</li>
+
 <li>Quickly whiteboard multimedia based solutions with out-of-the-box methods of empowerment.</li>
+
 </ul>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6594,7 +4146,7 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<title>Payment #10141</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_payment=payment-6</link>
 		<pubDate>Mon, 25 Jun 2012 22:29:43 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_payment=payment-6</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6636,7 +4188,7 @@ Quickly whiteboard multimedia based solutions with out-of-the-box methods of emp
 		<title>Your voucher is about to expire at Shop Theme for Group Buying Site Demo</title>
 		<link>http://shop.demo.groupbuyingsite.com/notifications/your-voucher-is-about-to-expire-at-shop-theme-for-group-buying-site-demo/</link>
 		<pubDate>Thu, 13 Dec 2012 01:19:54 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/notifications/your-voucher-is-about-to-expire-at-shop-theme-for-group-buying-site-demo/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Dear [name],
@@ -7086,7 +4638,7 @@ Sincerely,
 		<title>Credit Adjustement</title>
 		<link>http://shop.demo.groupbuyingsite.com/?post_type=gb_record&#038;p=10127</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_record&#038;p=10127</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7120,7 +4672,7 @@ Sincerely,
 		<title>Credit Adjustement</title>
 		<link>http://shop.demo.groupbuyingsite.com/?post_type=gb_record&#038;p=10134</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_record&#038;p=10134</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7154,7 +4706,7 @@ Sincerely,
 		<title>Credit Adjustement</title>
 		<link>http://shop.demo.groupbuyingsite.com/?post_type=gb_record&#038;p=10135</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_record&#038;p=10135</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7188,7 +4740,7 @@ Sincerely,
 		<title>Credit Adjustement</title>
 		<link>http://shop.demo.groupbuyingsite.com/?post_type=gb_record&#038;p=10137</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_record&#038;p=10137</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7222,7 +4774,7 @@ Sincerely,
 		<title>Order #10138</title>
 		<link>http://shop.demo.groupbuyingsite.com/purchase/order-10138/</link>
 		<pubDate>Mon, 25 Jun 2012 22:29:43 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_purchase&#038;p=10138</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7276,7 +4828,7 @@ Sincerely,
 		<title>Order #10142</title>
 		<link>http://shop.demo.groupbuyingsite.com/purchase/order-10142/</link>
 		<pubDate>Mon, 25 Jun 2012 22:29:54 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_purchase&#038;p=10142</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7330,7 +4882,7 @@ Sincerely,
 		<title>Payment #10144</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_payment=payment-7</link>
 		<pubDate>Mon, 25 Jun 2012 22:29:54 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_payment=payment-7</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7372,7 +4924,7 @@ Sincerely,
 		<title>Order #10145</title>
 		<link>http://shop.demo.groupbuyingsite.com/purchase/order-10145/</link>
 		<pubDate>Mon, 25 Jun 2012 22:30:02 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_purchase&#038;p=10145</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7426,7 +4978,7 @@ Sincerely,
 		<title>Payment #10147</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_payment=payment-8</link>
 		<pubDate>Mon, 25 Jun 2012 22:30:02 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_payment=payment-8</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7468,7 +5020,7 @@ Sincerely,
 		<title>Order #10148</title>
 		<link>http://shop.demo.groupbuyingsite.com/purchase/order-10148/</link>
 		<pubDate>Mon, 25 Jun 2012 22:30:33 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_purchase&#038;p=10148</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7522,7 +5074,7 @@ Sincerely,
 		<title>Payment #10150</title>
 		<link>http://shop.demo.groupbuyingsite.com/?gb_payment=payment-9</link>
 		<pubDate>Mon, 25 Jun 2012 22:30:33 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?gb_payment=payment-9</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7564,7 +5116,7 @@ Sincerely,
 		<title>Credit Adjustement</title>
 		<link>http://shop.demo.groupbuyingsite.com/?post_type=gb_record&#038;p=10151</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_record&#038;p=10151</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7598,7 +5150,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/9956/</link>
 		<pubDate>Fri, 20 Jan 2012 21:49:16 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=9956</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -7653,7 +5205,7 @@ Sincerely,
 		<title>Products</title>
 		<link>http://shop.demo.groupbuyingsite.com/9957/</link>
 		<pubDate>Fri, 20 Jan 2012 21:49:16 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=9957</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7708,7 +5260,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/9958/</link>
 		<pubDate>Fri, 20 Jan 2012 21:49:16 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=9958</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -7763,7 +5315,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/9960/</link>
 		<pubDate>Fri, 20 Jan 2012 21:50:53 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=9960</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -7818,7 +5370,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/9962/</link>
 		<pubDate>Fri, 20 Jan 2012 21:50:53 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=9962</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -7873,7 +5425,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/9963/</link>
 		<pubDate>Fri, 20 Jan 2012 21:50:53 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=9963</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -7928,7 +5480,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/9964/</link>
 		<pubDate>Fri, 20 Jan 2012 21:50:53 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=9964</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -7983,7 +5535,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/9965/</link>
 		<pubDate>Fri, 20 Jan 2012 21:50:54 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=9965</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -8038,7 +5590,7 @@ Sincerely,
 		<title>Merchants</title>
 		<link>http://shop.demo.groupbuyingsite.com/merchants/</link>
 		<pubDate>Fri, 20 Jan 2012 21:50:53 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=9966</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8093,7 +5645,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/10099/</link>
 		<pubDate>Thu, 26 Jan 2012 16:43:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=10099</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -8148,7 +5700,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/10100/</link>
 		<pubDate>Thu, 26 Jan 2012 16:43:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=10100</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -8203,7 +5755,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/10101/</link>
 		<pubDate>Thu, 26 Jan 2012 16:43:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=10101</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -8258,7 +5810,7 @@ Sincerely,
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/10102/</link>
 		<pubDate>Thu, 26 Jan 2012 16:43:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=10102</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -8393,7 +5945,7 @@ Sincerely,
 		<title>Invoice for Black Golf Stand Bag</title>
 		<link>http://shop.demo.groupbuyingsite.com/invoices/10139/</link>
 		<pubDate>Mon, 25 Jun 2012 22:30:13 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_voucher&#038;p=10139</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8435,7 +5987,7 @@ Sincerely,
 		<title>Invoice for Black Golf Stand Bag</title>
 		<link>http://shop.demo.groupbuyingsite.com/invoices/10140/</link>
 		<pubDate>Mon, 25 Jun 2012 22:30:13 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_voucher&#038;p=10140</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8477,7 +6029,7 @@ Sincerely,
 		<title>Invoice for Callaway Driver</title>
 		<link>http://shop.demo.groupbuyingsite.com/invoices/10143/</link>
 		<pubDate>Mon, 25 Jun 2012 22:30:12 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_voucher&#038;p=10143</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8523,7 +6075,7 @@ Sincerely,
 		<title>Invoice for Nike V Irons</title>
 		<link>http://shop.demo.groupbuyingsite.com/invoices/10146/</link>
 		<pubDate>Mon, 25 Jun 2012 22:30:11 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_voucher&#038;p=10146</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8565,7 +6117,7 @@ Sincerely,
 		<title>Invoice for Taylor Made r11 Irons</title>
 		<link>http://shop.demo.groupbuyingsite.com/invoices/10149/</link>
 		<pubDate>Mon, 25 Jun 2012 22:30:40 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?post_type=gb_voucher&#038;p=10149</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8611,7 +6163,7 @@ Sincerely,
 		<title>Sample Page</title>
 		<link>http://shop.demo.groupbuyingsite.com/sample-page/</link>
 		<pubDate>Fri, 20 Jan 2012 21:19:12 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
@@ -8645,7 +6197,7 @@ As a new WordPress user, you should go to <a href="http://shop.groupbuyingsite.c
 		<title>Homepage</title>
 		<link>http://shop.demo.groupbuyingsite.com/</link>
 		<pubDate>Fri, 20 Jan 2012 21:25:34 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?page_id=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[<img class="featured_home alignnone size-full wp-image-10166" title="Screen Shot 2012-01-20 at 12.01.58 PM" src="http://shop.demo.groupbuyingsite.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-20-at-12.01.58-PM1.png" alt="" width="963" height="443" />]]></content:encoded>
@@ -8857,7 +6409,7 @@ Vivamus semper auctor turpis. Sed ipsum lacus, varius quis, iaculis at, mollis s
 		<title>Sliders</title>
 		<link>http://shop.demo.groupbuyingsite.com/sliders/</link>
 		<pubDate>Fri, 20 Jan 2012 21:39:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?page_id=9930</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8887,7 +6439,7 @@ Vivamus semper auctor turpis. Sed ipsum lacus, varius quis, iaculis at, mollis s
 		<title>Blog</title>
 		<link>http://shop.demo.groupbuyingsite.com/blog/</link>
 		<pubDate>Fri, 20 Jan 2012 21:39:52 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?page_id=9933</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -9095,7 +6647,7 @@ Vivamus semper auctor turpis. Sed ipsum lacus, varius quis, iaculis at, mollis s
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/10104/</link>
 		<pubDate>Thu, 26 Jan 2012 16:43:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=10104</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -9150,7 +6702,7 @@ Vivamus semper auctor turpis. Sed ipsum lacus, varius quis, iaculis at, mollis s
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/10105/</link>
 		<pubDate>Thu, 26 Jan 2012 16:43:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=10105</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -9205,7 +6757,7 @@ Vivamus semper auctor turpis. Sed ipsum lacus, varius quis, iaculis at, mollis s
 		<title></title>
 		<link>http://shop.demo.groupbuyingsite.com/10106/</link>
 		<pubDate>Thu, 26 Jan 2012 16:43:14 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=10106</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -9260,7 +6812,7 @@ Vivamus semper auctor turpis. Sed ipsum lacus, varius quis, iaculis at, mollis s
 		<title>Premium Theme</title>
 		<link>http://shop.demo.groupbuyingsite.com/premium-theme/</link>
 		<pubDate>Mon, 23 Apr 2012 18:47:54 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?p=10124</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -9315,7 +6867,7 @@ Vivamus semper auctor turpis. Sed ipsum lacus, varius quis, iaculis at, mollis s
 		<title>Response Theme</title>
 		<link>http://shop.demo.groupbuyingsite.com/response-theme/</link>
 		<pubDate>Mon, 23 Apr 2012 18:47:54 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.demo.groupbuyingsite.com/?p=10125</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -9370,7 +6922,7 @@ Vivamus semper auctor turpis. Sed ipsum lacus, varius quis, iaculis at, mollis s
 		<title>Hello world!</title>
 		<link>http://shop.demo.groupbuyingsite.com/hello-world/</link>
 		<pubDate>Fri, 20 Jan 2012 21:19:12 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
@@ -9948,7 +7500,7 @@ It has multiple lines, some <code>code</code>, and a bit more text.]]></wp:comme
 		<title>WP Router Placeholder Page</title>
 		<link>http://shop.demo.groupbuyingsite.com/GB_Router/wp-router-placeholder-page/</link>
 		<pubDate>Sat, 21 Jan 2012 03:57:15 +0000</pubDate>
-		<dc:creator>sproutventure</dc:creator>
+		<dc:creator>demo</dc:creator>
 		<guid isPermaLink="false">http://shop.groupbuyingsite.com/GB_Router/wp-router-placeholder-page/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
