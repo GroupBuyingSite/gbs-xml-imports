@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.5.1" created="2013-03-26 05:36" -->
+<!-- generator="WordPress/3.6.1" created="2013-10-01 06:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,34 +26,163 @@
 >
 
 <channel>
-	<title>Test Projects</title>
+	<title>Group Buying Site Demo</title>
 	<link>http://demo.groupbuyingsite.com</link>
-	<description>Just another WordPress site</description>
-	<pubDate>Tue, 26 Mar 2013 05:36:37 +0000</pubDate>
+	<description>CrowdFunding Theme Demo Site</description>
+	<pubDate>Tue, 01 Oct 2013 06:10:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.groupbuyingsite.com</wp:base_site_url>
 	<wp:base_blog_url>http://demo.groupbuyingsite.com</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>demos@sproutventure.com</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>demo</wp:author_login><wp:author_email>demo@demo.groupbuyingsite.com</wp:author_email><wp:author_display_name><![CDATA[demo]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>3</wp:author_id><wp:author_login>merchant</wp:author_login><wp:author_email>merchant@demo.groupbuyingsite.com</wp:author_email><wp:author_display_name><![CDATA[merchant]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>4</wp:author_id><wp:author_login>user</wp:author_login><wp:author_email>user@demo.groupbuyingsite.com</wp:author_email><wp:author_display_name><![CDATA[user]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>gb_category</wp:term_taxonomy><wp:term_slug>membership</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Membership]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>gb_location</wp:term_taxonomy><wp:term_slug>los-angeles</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Los Angeles]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>gb_sponsor_type</wp:term_taxonomy><wp:term_slug>entertainment</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Entertainment]]></wp:term_name></wp:term>
+	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
+	<wp:term><wp:term_id>13</wp:term_id><wp:term_taxonomy>gb_attribute_tax_color</wp:term_taxonomy><wp:term_slug>blue</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Blue]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>gb_merchant_type</wp:term_taxonomy><wp:term_slug>entertainment</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Entertainment]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>12</wp:term_id><wp:term_taxonomy>gb_attribute_tax_color</wp:term_taxonomy><wp:term_slug>green</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Green]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>8</wp:term_id><wp:term_taxonomy>gb_attribute_tax_size</wp:term_taxonomy><wp:term_slug>large</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Large]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>16</wp:term_id><wp:term_taxonomy>gb_location</wp:term_taxonomy><wp:term_slug>los-angeles</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Los Angeles]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>gb_attribute_tax_size</wp:term_taxonomy><wp:term_slug>medium</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Medium]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>15</wp:term_id><wp:term_taxonomy>gb_category</wp:term_taxonomy><wp:term_slug>membership</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Membership]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>gb_attribute_tax_color</wp:term_taxonomy><wp:term_slug>orange</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Orange]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>14</wp:term_id><wp:term_taxonomy>gb_attribute_tax_color</wp:term_taxonomy><wp:term_slug>purple</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Purple]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>gb_attribute_tax_color</wp:term_taxonomy><wp:term_slug>red</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Red]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>gb_attribute_tax_size</wp:term_taxonomy><wp:term_slug>small</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Small]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>11</wp:term_id><wp:term_taxonomy>gb_attribute_tax_color</wp:term_taxonomy><wp:term_slug>yellow</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Yellow]]></wp:term_name></wp:term>
 	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>header-menu</wp:term_slug><wp:term_name><![CDATA[Header Menu]]></wp:term_name></wp:term>
 
-	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<generator>http://wordpress.org/?v=3.6.1</generator>
 
 	<item>
-		<title>Your First Test Project</title>
-		<link>http://demo.groupbuyingsite.com/projects/your-first-test-project/</link>
-		<pubDate>Fri, 15 Mar 2013 18:38:09 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/projects/your-first-test-project/</guid>
+		<title>Type One</title>
+		<link>http://demo.groupbuyingsite.com/?gb_attribute=type-one</link>
+		<pubDate>Wed, 26 Jun 2013 06:07:22 +0000</pubDate>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?gb_attribute=type-one</guid>
 		<description></description>
-		<content:encoded><![CDATA[This is an example project. This content will allow you to test and configure your site before you're ready to create actual projects.  You can replace this project with projects of your own when your site is ready to launch.
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date>2013-06-26 06:07:22</wp:post_date>
+		<wp:post_date_gmt>2013-06-26 06:07:22</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>type-one</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>gb_attribute</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_deal_id</wp:meta_key>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_price</wp:meta_key>
+			<wp:meta_value><![CDATA[2.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_max_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_sku</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Type Two</title>
+		<link>http://demo.groupbuyingsite.com/?gb_attribute=type-two</link>
+		<pubDate>Wed, 26 Jun 2013 06:07:22 +0000</pubDate>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?gb_attribute=type-two</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date>2013-06-26 06:07:22</wp:post_date>
+		<wp:post_date_gmt>2013-06-26 06:07:22</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>type-two</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>gb_attribute</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_deal_id</wp:meta_key>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_price</wp:meta_key>
+			<wp:meta_value><![CDATA[2.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_max_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_sku</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Type Three</title>
+		<link>http://demo.groupbuyingsite.com/?gb_attribute=type-three</link>
+		<pubDate>Wed, 26 Jun 2013 06:07:22 +0000</pubDate>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?gb_attribute=type-three</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date>2013-06-26 06:07:22</wp:post_date>
+		<wp:post_date_gmt>2013-06-26 06:07:22</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>type-three</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>gb_attribute</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_deal_id</wp:meta_key>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_price</wp:meta_key>
+			<wp:meta_value><![CDATA[3.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_max_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_sku</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Your First Test Project</title>
+		<link>http://demo.groupbuyingsite.com/projects/your-first-test-deal/</link>
+		<pubDate>Fri, 15 Mar 2013 18:38:09 +0000</pubDate>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/deals/your-first-test-deal/</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example project. This content will allow you to test and configure your site before you're ready to create actual projects. You can replace this project with projects of your own when your site is ready to launch.
+
+
 
 Competently create innovative systems through reliable materials. Energistically transition corporate infomediaries and next-generation intellectual capital. Collaboratively leverage other's innovative niches rather than quality ideas.
+
 Objectively enhance client-centered opportunities vis-a-vis distributed bandwidth. Monotonectally evolve enabled web-readiness via front-end initiatives. Authoritatively optimize state of the art paradigms rather than stand-alone users.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>40</wp:post_id>
@@ -61,15 +190,15 @@ Objectively enhance client-centered opportunities vis-a-vis distributed bandwidt
 		<wp:post_date_gmt>2013-03-15 18:38:09</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>your-first-test-project</wp:post_name>
+		<wp:post_name>your-first-test-deal</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_project</wp:post_type>
+		<wp:post_type>gb_deal</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="gb_category" nicename="membership"><![CDATA[Membership]]></category>
 		<category domain="gb_location" nicename="los-angeles"><![CDATA[Los Angeles]]></category>
+		<category domain="gb_category" nicename="membership"><![CDATA[Membership]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -130,9 +259,9 @@ Objectively enhance client-centered opportunities vis-a-vis distributed bandwidt
 			<wp:meta_key>_highlights</wp:meta_key>
 			<wp:meta_value><![CDATA[<ol>
 
-	<li>List your project highlights here.</li>
+	<li>List your deal highlights here.</li>
 
-	<li>Distinctively exploit open-source manufactured projects after emerging services. Intrinsicly e-enable leveraged collaboration and idea-sharing through seamless meta-services.</li>
+	<li>Distinctively exploit open-source manufactured products after emerging services. Intrinsicly e-enable leveraged collaboration and idea-sharing through seamless meta-services.</li>
 
 	<li>Proactively synergize compelling sources for prospective partnerships. Efficiently engineer client-centric meta-services before sustainable resources. Quickly visualize quality bandwidth for superior infrastructures.</li>
 
@@ -142,11 +271,11 @@ Objectively enhance client-centered opportunities vis-a-vis distributed bandwidt
 			<wp:meta_key>_fine_print</wp:meta_key>
 			<wp:meta_value><![CDATA[<ul>
 
-	<li>This is your project fine print.</li>
+	<li>This is your deal fine print.</li>
 
-	<li>Monotonectally projectize compelling collaboration and idea-sharing with functional methodologies.</li>
+	<li>Monotonectally productize compelling collaboration and idea-sharing with functional methodologies.</li>
 
-	<li>Distinctively exploit open-source manufactured projects after emerging services. Intrinsicly e-enable leveraged collaboration and idea-sharing through seamless meta-services.</li>
+	<li>Distinctively exploit open-source manufactured products after emerging services. Intrinsicly e-enable leveraged collaboration and idea-sharing through seamless meta-services.</li>
 
 	<li>Proactively synergize compelling sources for prospective partnerships.</li>
 
@@ -187,7 +316,7 @@ Objectively enhance client-centered opportunities vis-a-vis distributed bandwidt
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_sponsor_id</wp:meta_key>
+			<wp:meta_key>_merchant_id</wp:meta_key>
 			<wp:meta_value><![CDATA[285]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -218,97 +347,473 @@ Objectively enhance client-centered opportunities vis-a-vis distributed bandwidt
 			<wp:meta_key>_used_voucher_serials</wp:meta_key>
 			<wp:meta_value><![CDATA[a:3:{i:0;s:14:"MgBQ-sAdU-E0gC";i:1;s:14:"RdHX-cDiw-KpIw";i:2;s:14:"T8Fa-7Rg1-1TTi";}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>yoga1</title>
-		<link>http://demo.groupbuyingsite.com/projects/attributes/yoga1/</link>
-		<pubDate>Fri, 22 Mar 2013 06:41:59 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/yoga1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>572</wp:post_id>
-		<wp:post_date>2013-03-22 06:41:59</wp:post_date>
-		<wp:post_date_gmt>2013-03-22 06:41:59</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>yoga1</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>76</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/yoga1.jpg</wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/03/yoga1.jpg]]></wp:meta_value>
+			<wp:meta_key>gb_cf_goal</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>gb_sponsor_payment</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>theater3</title>
-		<link>http://demo.groupbuyingsite.com/projects/your-first-test-project/theater3/</link>
-		<pubDate>Fri, 22 Mar 2013 06:24:39 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/theater3.jpg</guid>
+		<title>Rewards</title>
+		<link>http://demo.groupbuyingsite.com/projects/attributes/</link>
+		<pubDate>Mon, 01 Apr 2013 07:21:31 +0000</pubDate>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?post_type=gb_deal&#038;p=50</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[This deal has rewards because the Project Rewards Add-on (Group Buying -&gt; Add-ons) is activated, and rewards were added below under "Funding Rewards."]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>582</wp:post_id>
-		<wp:post_date>2013-03-22 06:24:39</wp:post_date>
-		<wp:post_date_gmt>2013-03-22 06:24:39</wp:post_date_gmt>
+		<wp:post_id>50</wp:post_id>
+		<wp:post_date>2013-04-01 07:21:31</wp:post_date>
+		<wp:post_date_gmt>2013-04-01 07:21:31</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>theater3</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>40</wp:post_parent>
+		<wp:post_name>attributes</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
+		<wp:post_type>gb_deal</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/theater3.jpg</wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/03/theater3.jpg]]></wp:meta_value>
+			<wp:meta_key>_base_price</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_expiration_date</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_capture_before_expiration</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_number_of_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_dynamic_price</wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_taxable</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_tax</wp:meta_key>
+			<wp:meta_value><![CDATA[standard-rate]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shipping</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shippable</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shipping_mode</wp:meta_key>
+			<wp:meta_value><![CDATA[flat-rate-5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shipping_dyn_price</wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_min_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_max_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_max_purchases_per_user</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_value</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_amount_saved</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_highlights</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_fine_print</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rss_excerpt</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_expiration_date</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_how_to_use</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_id_prefix</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_locations</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{i:0;s:0:"";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_logo</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_map</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_serial_numbers</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_merchant_id</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_preview_private_key</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_featured_content</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>gb_cf_goal</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>gb_sponsor_payment</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>chicago-river</title>
-		<link>http://demo.groupbuyingsite.com/sponsors/chicago-events/chicago-river/</link>
-		<pubDate>Tue, 19 Mar 2013 21:21:20 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/chicago-river.jpg</guid>
+		<title>Free Project</title>
+		<link>http://demo.groupbuyingsite.com/projects/free-deal/</link>
+		<pubDate>Mon, 01 Apr 2013 07:22:21 +0000</pubDate>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?post_type=gb_deal&#038;p=58</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[This project is free, so the price is set to 0.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>335</wp:post_id>
-		<wp:post_date>2013-03-19 21:21:20</wp:post_date>
-		<wp:post_date_gmt>2013-03-19 21:21:20</wp:post_date_gmt>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date>2013-04-01 07:22:21</wp:post_date>
+		<wp:post_date_gmt>2013-04-01 07:22:21</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>chicago-river</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>285</wp:post_parent>
+		<wp:post_name>free-deal</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
+		<wp:post_type>gb_deal</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="gb_sponsor_type" nicename="entertainment"><![CDATA[Entertainment]]></category>
-		<wp:attachment_url>http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/chicago-river.jpg</wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/03/chicago-river.jpg]]></wp:meta_value>
+			<wp:meta_key>_base_price</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_expiration_date</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_capture_before_expiration</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_number_of_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_dynamic_price</wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_taxable</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_tax</wp:meta_key>
+			<wp:meta_value><![CDATA[standard-rate]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shipping</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shippable</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shipping_mode</wp:meta_key>
+			<wp:meta_value><![CDATA[flat-rate-5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shipping_dyn_price</wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_min_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_max_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_max_purchases_per_user</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_value</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_amount_saved</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_highlights</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_fine_print</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rss_excerpt</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_expiration_date</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_how_to_use</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_id_prefix</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_locations</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{i:0;s:0:"";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_logo</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_map</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_serial_numbers</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_merchant_id</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_preview_private_key</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_featured_content</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>gb_cf_goal</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>gb_sponsor_payment</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Purchase Limits</title>
+		<link>http://demo.groupbuyingsite.com/projects/purchase-limits/</link>
+		<pubDate>Mon, 01 Apr 2013 07:29:24 +0000</pubDate>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?post_type=gb_deal&#038;p=72</guid>
+		<description></description>
+		<content:encoded><![CDATA[This project's payments will not be captured until it reaches its funding reaches the minimum of 2 dollars.  It also has a maximum of 2 pledges per user.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>72</wp:post_id>
+		<wp:post_date>2013-04-01 07:29:24</wp:post_date>
+		<wp:post_date_gmt>2013-04-01 07:29:24</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>purchase-limits</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>gb_deal</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_base_price</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_min_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_max_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_max_purchases_per_user</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_expiration_date</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_capture_before_expiration</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_number_of_purchases</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_dynamic_price</wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_taxable</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_tax</wp:meta_key>
+			<wp:meta_value><![CDATA[standard-rate]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shipping</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shippable</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shipping_mode</wp:meta_key>
+			<wp:meta_value><![CDATA[flat-rate-5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_shipping_dyn_price</wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_value</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_amount_saved</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_highlights</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_fine_print</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rss_excerpt</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_expiration_date</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_how_to_use</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_id_prefix</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_locations</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{i:0;s:0:"";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_logo</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_map</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_voucher_serial_numbers</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_merchant_id</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_preview_private_key</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_featured_content</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>gb_cf_goal</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>gb_sponsor_payment</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Chicago Events</title>
 		<link>http://demo.groupbuyingsite.com/sponsors/chicago-events/</link>
 		<pubDate>Tue, 19 Mar 2013 18:45:54 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?post_type=gb_sponsor&#038;p=285</guid>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?post_type=gb_merchant&#038;p=285</guid>
 		<description></description>
-		<content:encoded><![CDATA[This is the sponsor description.  It appears on the sponsor page.
+		<content:encoded><![CDATA[This is the merchant description.  It appears on the merchant page.
 		
 Phosfluorescently procrastinate ubiquitous sources rather than end-to-end interfaces. Objectively supply value-added core competencies whereas interoperable leadership skills. Rapidiously target optimal leadership rather than viral services.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -321,10 +826,54 @@ Phosfluorescently procrastinate ubiquitous sources rather than end-to-end interf
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_sponsor</wp:post_type>
+		<wp:post_type>gb_merchant</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="gb_sponsor_type" nicename="entertainment"><![CDATA[Entertainment]]></category>
+		<category domain="gb_merchant_type" nicename="entertainment"><![CDATA[Entertainment]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_contact_name</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_contact_title</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_contact_street</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_contact_city</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_contact_state</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_contact_postal_code</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_contact_country</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_contact_phone</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_website</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_facebook</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_twitter</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -383,357 +932,96 @@ Phosfluorescently procrastinate ubiquitous sources rather than end-to-end interf
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Dynamic Pricing</title>
-		<link>http://demo.groupbuyingsite.com/projects/dynamic-pricing/</link>
-		<pubDate>Mon, 01 Apr 2013 07:18:25 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?post_type=gb_project&#038;p=47</guid>
-		<description></description>
-		<content:encoded><![CDATA[This project has dynamic pricing as defined in the Pricing section of the edit screen.  The price will drop for new projects as more projects are purchased.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date>2013-04-01 07:18:25</wp:post_date>
-		<wp:post_date_gmt>2013-04-01 07:18:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dynamic-pricing</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_project</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_base_price</wp:meta_key>
-			<wp:meta_value><![CDATA[20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_dynamic_price</wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{i:1;s:2:"19";i:2;s:2:"18";i:3;s:2:"17";i:5;s:2:"15";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_expiration_date</wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_capture_before_expiration</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Rewards</title>
-		<link>http://demo.groupbuyingsite.com/projects/rewards/</link>
-		<pubDate>Mon, 01 Apr 2013 07:21:31 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?post_type=gb_project&#038;p=50</guid>
-		<description></description>
-		<content:encoded><![CDATA[This project has rewards because the Rewards Add-on (Group Buying -&gt; Add-ons) is activated, and attributes were added below under "Items."]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>50</wp:post_id>
-		<wp:post_date>2013-04-01 07:21:31</wp:post_date>
-		<wp:post_date_gmt>2013-04-01 07:21:31</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>attributes</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_project</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_base_price</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_expiration_date</wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_capture_before_expiration</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Type One</title>
-		<link>http://demo.groupbuyingsite.com/?gb_attribute=type-one</link>
-		<pubDate>Wed, 26 Jun 2013 06:07:22 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?gb_attribute=type-one</guid>
+		<title>chicago-river</title>
+		<link>http://demo.groupbuyingsite.com/sponsors/chicago-events/chicago-river/</link>
+		<pubDate>Tue, 19 Mar 2013 21:21:20 +0000</pubDate>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/chicago-river1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date>2013-06-26 06:07:22</wp:post_date>
-		<wp:post_date_gmt>2013-06-26 06:07:22</wp:post_date_gmt>
+		<wp:post_id>335</wp:post_id>
+		<wp:post_date>2013-03-19 21:21:20</wp:post_date>
+		<wp:post_date_gmt>2013-03-19 21:21:20</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>type-one</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_name>chicago-river</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>285</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_attribute</wp:post_type>
+		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/chicago-river1.jpg</wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_project_id</wp:meta_key>
-			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/03/chicago-river1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_price</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_max_purchases</wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_sku</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1000;s:4:"file";s:26:"2013/03/chicago-river1.jpg";s:5:"sizes";a:20:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"chicago-river1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:26:"chicago-river1-300x150.jpg";s:5:"width";i:300;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"chicago-river1-1024x512.jpg";s:5:"width";i:1024;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"gbs_60x60";a:4:{s:4:"file";s:24:"chicago-river1-60x60.jpg";s:5:"width";i:60;s:6:"height";i:60;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_208x120";a:4:{s:4:"file";s:26:"chicago-river1-208x120.jpg";s:5:"width";i:208;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:7:"gbs_700";a:4:{s:4:"file";s:27:"chicago-river1-700x1000.jpg";s:5:"width";i:700;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_300x180";a:4:{s:4:"file";s:26:"chicago-river1-300x180.jpg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_250x110";a:4:{s:4:"file";s:26:"chicago-river1-250x110.jpg";s:5:"width";i:250;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";}s:8:"gbs_150w";a:4:{s:4:"file";s:25:"chicago-river1-150x75.jpg";s:5:"width";i:150;s:6:"height";i:75;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_100x100";a:4:{s:4:"file";s:25:"chicago-river1-100x50.jpg";s:5:"width";i:100;s:6:"height";i:50;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_200x150";a:4:{s:4:"file";s:26:"chicago-river1-200x100.jpg";s:5:"width";i:200;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_160x100";a:4:{s:4:"file";s:26:"chicago-river1-160x100.jpg";s:5:"width";i:160;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:18:"gbs_deal_thumbnail";a:4:{s:4:"file";s:26:"chicago-river1-656x328.jpg";s:5:"width";i:656;s:6:"height";i:328;s:9:"mime-type";s:10:"image/jpeg";}s:14:"gbs_loop_thumb";a:4:{s:4:"file";s:26:"chicago-river1-208x120.jpg";s:5:"width";i:208;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:16:"gbs_widget_thumb";a:4:{s:4:"file";s:24:"chicago-river1-60x60.jpg";s:5:"width";i:60;s:6:"height";i:60;s:9:"mime-type";s:10:"image/jpeg";}s:17:"gbs_merchant_loop";a:4:{s:4:"file";s:25:"chicago-river1-150x75.jpg";s:5:"width";i:150;s:6:"height";i:75;s:9:"mime-type";s:10:"image/jpeg";}s:18:"gbs_merchant_thumb";a:4:{s:4:"file";s:26:"chicago-river1-255x127.jpg";s:5:"width";i:255;s:6:"height";i:127;s:9:"mime-type";s:10:"image/jpeg";}s:17:"gbs_voucher_thumb";a:4:{s:4:"file";s:26:"chicago-river1-255x127.jpg";s:5:"width";i:255;s:6:"height";i:127;s:9:"mime-type";s:10:"image/jpeg";}s:19:"merchant_post_thumb";a:4:{s:4:"file";s:26:"chicago-river1-160x100.jpg";s:5:"width";i:160;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_700x400";a:4:{s:4:"file";s:26:"chicago-river1-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Type Two</title>
-		<link>http://demo.groupbuyingsite.com/?gb_attribute=type-two</link>
-		<pubDate>Wed, 26 Jun 2013 06:07:22 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?gb_attribute=type-two</guid>
+		<title>yoga1</title>
+		<link>http://demo.groupbuyingsite.com/?attachment_id=572</link>
+		<pubDate>Fri, 22 Mar 2013 06:41:59 +0000</pubDate>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/yoga11.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date>2013-06-26 06:07:22</wp:post_date>
-		<wp:post_date_gmt>2013-06-26 06:07:22</wp:post_date_gmt>
+		<wp:post_id>572</wp:post_id>
+		<wp:post_date>2013-03-22 06:41:59</wp:post_date>
+		<wp:post_date_gmt>2013-03-22 06:41:59</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>type-two</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_name>yoga1</wp:post_name>
+		<wp:status>inherit</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_attribute</wp:post_type>
+		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/yoga11.jpg</wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_project_id</wp:meta_key>
-			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/03/yoga11.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_price</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_max_purchases</wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_sku</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:768;s:4:"file";s:18:"2013/03/yoga11.jpg";s:5:"sizes";a:19:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"yoga11-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"yoga11-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:9:"gbs_60x60";a:4:{s:4:"file";s:16:"yoga11-60x60.jpg";s:5:"width";i:60;s:6:"height";i:60;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_208x120";a:4:{s:4:"file";s:18:"yoga11-208x120.jpg";s:5:"width";i:208;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:7:"gbs_700";a:4:{s:4:"file";s:18:"yoga11-700x768.jpg";s:5:"width";i:700;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_300x180";a:4:{s:4:"file";s:18:"yoga11-300x180.jpg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_250x110";a:4:{s:4:"file";s:18:"yoga11-250x110.jpg";s:5:"width";i:250;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";}s:8:"gbs_150w";a:4:{s:4:"file";s:18:"yoga11-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_100x100";a:4:{s:4:"file";s:17:"yoga11-100x75.jpg";s:5:"width";i:100;s:6:"height";i:75;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_200x150";a:4:{s:4:"file";s:18:"yoga11-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_160x100";a:4:{s:4:"file";s:18:"yoga11-160x100.jpg";s:5:"width";i:160;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:18:"gbs_deal_thumbnail";a:4:{s:4:"file";s:18:"yoga11-532x399.jpg";s:5:"width";i:532;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}s:14:"gbs_loop_thumb";a:4:{s:4:"file";s:18:"yoga11-208x120.jpg";s:5:"width";i:208;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:16:"gbs_widget_thumb";a:4:{s:4:"file";s:16:"yoga11-60x60.jpg";s:5:"width";i:60;s:6:"height";i:60;s:9:"mime-type";s:10:"image/jpeg";}s:17:"gbs_merchant_loop";a:4:{s:4:"file";s:18:"yoga11-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:18:"gbs_merchant_thumb";a:4:{s:4:"file";s:18:"yoga11-255x191.jpg";s:5:"width";i:255;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";}s:17:"gbs_voucher_thumb";a:4:{s:4:"file";s:18:"yoga11-255x191.jpg";s:5:"width";i:255;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";}s:19:"merchant_post_thumb";a:4:{s:4:"file";s:18:"yoga11-160x100.jpg";s:5:"width";i:160;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_700x400";a:4:{s:4:"file";s:18:"yoga11-533x400.jpg";s:5:"width";i:533;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Type Three</title>
-		<link>http://demo.groupbuyingsite.com/?gb_attribute=type-three</link>
-		<pubDate>Wed, 26 Jun 2013 06:07:22 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?gb_attribute=type-three</guid>
+		<title>theater3</title>
+		<link>http://demo.groupbuyingsite.com/projects/your-first-test-deal/theater3/</link>
+		<pubDate>Fri, 22 Mar 2013 06:24:39 +0000</pubDate>
+		<dc:creator>demo</dc:creator>
+		<guid isPermaLink="false">http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/theater32.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date>2013-06-26 06:07:22</wp:post_date>
-		<wp:post_date_gmt>2013-06-26 06:07:22</wp:post_date_gmt>
+		<wp:post_id>582</wp:post_id>
+		<wp:post_date>2013-03-22 06:24:39</wp:post_date>
+		<wp:post_date_gmt>2013-03-22 06:24:39</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>type-three</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_name>theater3</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>40</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_attribute</wp:post_type>
+		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://demo.groupbuyingsite.com/wp-content/uploads/2013/03/theater32.jpg</wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_project_id</wp:meta_key>
-			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/03/theater32.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_price</wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_max_purchases</wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_sku</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Goals and Limits</title>
-		<link>http://demo.groupbuyingsite.com/projects/purchase-limits/</link>
-		<pubDate>Mon, 01 Apr 2013 07:29:24 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?post_type=gb_project&#038;p=72</guid>
-		<description></description>
-		<content:encoded><![CDATA[This project will not be funded and it's payments will not be captured until it reaches its minimum of 2 purchases.  It also has a maximum of 2 purchases per user.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>72</wp:post_id>
-		<wp:post_date>2013-04-01 07:29:24</wp:post_date>
-		<wp:post_date_gmt>2013-04-01 07:29:24</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>purchase-limits</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>gb_project</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_base_price</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_min_purchases</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_max_purchases</wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_max_purchases_per_user</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_expiration_date</wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_capture_before_expiration</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>gb_cf_goal</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>gb_sponsor_payment</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Projects</title>
-		<link>http://demo.groupbuyingsite.com/projects/</link>
-		<pubDate>Wed, 26 Jun 2013 05:29:43 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?p=20</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date>2013-06-26 05:29:43</wp:post_date>
-		<wp:post_date_gmt>2013-06-26 05:29:43</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>projects</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="header-menu"><![CDATA[Header Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[/projects]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Sponsors</title>
-		<link>http://demo.groupbuyingsite.com/sponsors/</link>
-		<pubDate>Wed, 26 Jun 2013 05:29:43 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://demo.groupbuyingsite.com/?p=21</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date>2013-06-26 05:29:43</wp:post_date>
-		<wp:post_date_gmt>2013-06-26 05:29:43</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>sponsors</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="header-menu"><![CDATA[Header Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[21]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[/sponsors]]></wp:meta_value>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1002;s:6:"height";i:764;s:4:"file";s:21:"2013/03/theater32.jpg";s:5:"sizes";a:19:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"theater32-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"theater32-300x228.jpg";s:5:"width";i:300;s:6:"height";i:228;s:9:"mime-type";s:10:"image/jpeg";}s:9:"gbs_60x60";a:4:{s:4:"file";s:19:"theater32-60x60.jpg";s:5:"width";i:60;s:6:"height";i:60;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_208x120";a:4:{s:4:"file";s:21:"theater32-208x120.jpg";s:5:"width";i:208;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:7:"gbs_700";a:4:{s:4:"file";s:21:"theater32-700x764.jpg";s:5:"width";i:700;s:6:"height";i:764;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_300x180";a:4:{s:4:"file";s:21:"theater32-300x180.jpg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_250x110";a:4:{s:4:"file";s:21:"theater32-250x110.jpg";s:5:"width";i:250;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";}s:8:"gbs_150w";a:4:{s:4:"file";s:21:"theater32-150x114.jpg";s:5:"width";i:150;s:6:"height";i:114;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_100x100";a:4:{s:4:"file";s:20:"theater32-100x76.jpg";s:5:"width";i:100;s:6:"height";i:76;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_200x150";a:4:{s:4:"file";s:21:"theater32-196x150.jpg";s:5:"width";i:196;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_160x100";a:4:{s:4:"file";s:21:"theater32-160x100.jpg";s:5:"width";i:160;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:18:"gbs_deal_thumbnail";a:4:{s:4:"file";s:21:"theater32-523x399.jpg";s:5:"width";i:523;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}s:14:"gbs_loop_thumb";a:4:{s:4:"file";s:21:"theater32-208x120.jpg";s:5:"width";i:208;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:16:"gbs_widget_thumb";a:4:{s:4:"file";s:19:"theater32-60x60.jpg";s:5:"width";i:60;s:6:"height";i:60;s:9:"mime-type";s:10:"image/jpeg";}s:17:"gbs_merchant_loop";a:4:{s:4:"file";s:21:"theater32-150x114.jpg";s:5:"width";i:150;s:6:"height";i:114;s:9:"mime-type";s:10:"image/jpeg";}s:18:"gbs_merchant_thumb";a:4:{s:4:"file";s:21:"theater32-255x194.jpg";s:5:"width";i:255;s:6:"height";i:194;s:9:"mime-type";s:10:"image/jpeg";}s:17:"gbs_voucher_thumb";a:4:{s:4:"file";s:21:"theater32-255x194.jpg";s:5:"width";i:255;s:6:"height";i:194;s:9:"mime-type";s:10:"image/jpeg";}s:19:"merchant_post_thumb";a:4:{s:4:"file";s:21:"theater32-160x100.jpg";s:5:"width";i:160;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:11:"gbs_700x400";a:4:{s:4:"file";s:21:"theater32-524x400.jpg";s:5:"width";i:524;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
